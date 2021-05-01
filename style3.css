@@ -1,0 +1,25 @@
+#fixed{
+    position: fixed;
+    background: cadetblue;
+    top: 70;
+}
+
+#abs{
+    position: absolute;
+    background: chocolate;
+    margin: 10 60px;
+}
+
+
+
+#rel{
+    position: relative;
+    background: cornsilk;
+}
+
+
+
+#staics{
+    position: static;
+    background: darkgreen;
+}
